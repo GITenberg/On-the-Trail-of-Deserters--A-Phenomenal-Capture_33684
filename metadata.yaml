@@ -1,0 +1,29 @@
+_repo: On-the-Trail-of-Deserters--A-Phenomenal-Capture_33684
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carter, Robert Goldthwaite
+    alias: Carter, Robert G. (Robert Goldthwaite)
+    birthdate: 1845
+    deathdate: 1936
+    gutenberg_agent_id: '36534'
+    url: http://www.gutenberg.org/2009/agents/36534
+description: ''
+gutenberg_issued: '2010-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Cavalry, 4th'
+- !lcsh 'Frontier and pioneer life -- Texas'
+- !lcc 'F350.5'
+- !lcsh 'Desertion, Military -- Texas'
+title: On the Trail of Deserters; A Phenomenal Capture
+url: http://www.gutenberg.org/ebooks/33684
